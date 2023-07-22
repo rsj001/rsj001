@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @rsj001 in China.
-- 🌱 I’m interested in deeplearning, but what I am more familiar to is competitive programming.
-- 👀 I’m currently taking boring typical lessons at school, sometimes improve my CP skills for a provincial competition.
-- 📫 Feel free to DM me! Discord: rsjw#6310. Please don't hesitate to friend me!
+- 👋 Hi, I’m @rsj001 from eastern Asia.
+- 🌱 I’m interested in deeplearning, but I am more familiar to competitive programming.
+- 👀 Currently I’m taking courses in High School.
+- 📫 Feel free to DM me! Discord: rsjww. Please don't hesitate to friend me!
 - 🦆 Maths is impossible.
